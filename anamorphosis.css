@@ -1,0 +1,57 @@
+/*
+ * Style sheet for anamorphosis.com
+ */
+ 
+BODY
+{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: White;
+	margin-left : 20px;
+	margin-top : 20px;
+}
+
+H1, H2, H3, H4, H5, H6 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+p, ul, li, div, center, blockquote
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+LINK
+{
+	color: #0033CC;
+	text-decoration : none;
+}
+
+A:LINK
+{
+	color: #0033CC;
+	text-decoration : none;
+}
+
+A:VISITED
+ {
+	color: #AA0000;
+	text-decoration : none;
+}
+
+A:HOVER
+{
+       text-decoration: underline;
+}
+
+A:ACTIVE
+{
+       text-decoration : underline;
+}
+
+TD
+{
+	vertical-align: top;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
